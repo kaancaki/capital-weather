@@ -4,6 +4,7 @@ Returns the current weather information of the capital of the country sent throu
 
 ##### Purpose of the Application
 Something I did to be able to learn the package release process on npm.
+[npm link](https://www.npmjs.com/package/country-weather-info)
 
 ## Packages Used
 
