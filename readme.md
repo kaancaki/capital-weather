@@ -2,6 +2,9 @@
 
 Returns the current weather information of the capital of the country sent through the console.
 
+##### Purpose of the Application
+Something I did to be able to learn the package release process on npm.
+
 ## Packages Used
 
 In this plugin, yargs and axios npm packages, OpenWeatherMap and REST Countries API are used.
@@ -32,7 +35,7 @@ app();
 ```
 
 **Console:** 
-
+  
 ```
 node yourjsfile.js weather --country="Country Name" --unit="Heat Unit [Optional, default value fahrenheit]"
 ```
