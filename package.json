@@ -1,0 +1,21 @@
+{
+  "name": "country-weather-info",
+  "version": "1.0.7",
+  "description": "Returns the current weather information of the capital of the country sent through the console.",
+  "keywords": [
+    "weather country",
+    "weather forecast",
+    "weather capital"
+  ],
+  "dependencies": {
+    "axios": "^0.26.0",
+    "country-weather-info": "^1.0.2",
+    "yargs": "^17.3.1"
+  },
+  "main": "weather-commands.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
